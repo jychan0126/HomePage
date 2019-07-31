@@ -11,7 +11,7 @@
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 12pt;
 		font-weight: 300;
-		color: #444444;
+		color: #FFF;
 	}
 	
 	
@@ -404,7 +404,7 @@
 	#logo a
 	{
 		text-decoration: none;
-		color: #FFF;
+		color: #000;
 	}
 	
 	#logo span
@@ -461,7 +461,7 @@
 	
 	#menu .current_page_item a
 	{
-		background: #2980b9;
+		background: #b02929;
 		color: rgba(255,255,255,1);
 	}
 	
@@ -484,7 +484,7 @@
 
 	#page
 	{
-		background: #2a2a2a;
+		background: #FFF;
 	}
 
 /*********************************************************************************/
